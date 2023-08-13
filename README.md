@@ -28,11 +28,12 @@ A student with a passion for technology, I'm eager to learn and contribute to in
 <a href="https://instagram.com/shekabhi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekabhi_03" height="30" width="40" /></a>
 </p>
 
-##### 📊 STATES:
-  
+##### 📊 STATS:
+
 | GitHub Stats | GitHub Streak | Top Languages |
 | --- | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=Abhisheksingh0303=radical&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksingh0303&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radicalAbhisheksingh0303&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhisheksingh0303&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksingh0303&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksingh0303&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
 
 
 
