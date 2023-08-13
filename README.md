@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
+A student with a passion for technology, I'm eager to learn and contribute to innovative projects, and bring a positive, team-oriented attitude to any environment. Let's connect and explore how we can work together to drive success.
 
-
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 - 🔭 I’m currently learning **Frameworks, courses**
 
 - 🌱 I’m currently learning **Frameworks, courses, New technologies, Soft skills etc.**
