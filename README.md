@@ -32,7 +32,7 @@ A student with a passion for technology, I'm eager to learn and contribute to in
   
 | GitHub Stats | GitHub Streak | Top Languages |
 | --- | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=rajkumar23411&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar23411&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar23411&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| ![](https://github-readme-stats.vercel.app/api?username=Abhisheksingh0303=radical&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksingh0303&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radicalAbhisheksingh0303&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
