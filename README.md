@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
+
+- 🔭 I’m currently learning **Frameworks, courses**
+
 - 🌱 I’m currently learning **Frameworks, courses, New technologies, Soft skills etc.**
 
-- 💬 Ask me about **Web Developement, HTML, CSS, JAVASCRIPT, MY SQL, PHP, BOOTSTRAP, C, C++, Backend Developent**
+- 👯 I’m looking to collaborate on **new projects, ideas etc**
+
+- 🤝 I’m looking for help with **Web Developement, Connections**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abhisheksingh0303](https://github.com/Abhisheksingh0303)
+
+- 💬 Ask me about **Web Developer,HTML, CSS, JAVASCRIPT, MY SQL, PHP, BOOTSTRAP, C, C++, Backend Developent**
+
+- 📫 How to reach me **abhisheksingh81037272@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-singh-531889240/](https://www.linkedin.com/in/abhishek-singh-531889240/)
+
+- ⚡ Fun fact **I can debug code in my sleep – literally dreamed up a solution once!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-singh-531889240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-531889240/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-singh-531889240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-531889240" height="30" width="40" /></a>
 <a href="https://fb.com/ab.abhishek.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ab.abhishek.1806" height="30" width="40" /></a>
 <a href="https://instagram.com/shekabhi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekabhi_03" height="30" width="40" /></a>
 </p>
