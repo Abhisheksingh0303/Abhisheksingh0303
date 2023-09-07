@@ -4,7 +4,7 @@
 
 A technology enthusiast and aspiring developer, I am on a journey to create meaningful and impactful software solutions. Join me in my quest to turn ideas into reality.
 
-<img align="right" src="https://example.com/your-smaller-image.jpg" width="150px">
+<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 
 - 🔭 Currently expanding my knowledge in **Frameworks and Courses**
