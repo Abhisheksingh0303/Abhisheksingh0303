@@ -16,22 +16,21 @@ A technology enthusiast and aspiring developer, I am on a journey to create mean
 - 📄 Learn about my journey on [LinkedIn](https://www.linkedin.com/in/abhishek-singh-531889240/)
 - ⚡ Fun fact: **I once debugged code in my dream and woke up with a solution!**
 
-## Connect with me:
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-blue)](https://linkedin.com/in/abhishek-singh-531889240)
+[![Facebook](https://img.shields.io/badge/Facebook-Abhishek-blue)](https://fb.com/ab.abhishek.1806)
+[![Instagram](https://img.shields.io/badge/Instagram-shekabhi_03-orange)](https://instagram.com/shekabhi_03)
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/abhishek-singh-531889240)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/ab.abhishek.1806)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/shekabhi_03)
+## Languages and Tools
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg)
+![MySQL](https://img.shields.io/badge/MySQL-%2314354C.svg)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg)
+![C](https://img.shields.io/badge/C-%2300599C.svg)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg)
 
-## Languages and Tools:
-
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) 
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) 
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) 
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
 ## 📊 GitHub Statistics:
 
