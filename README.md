@@ -2,7 +2,10 @@
 
 ### Passionate Full Stack Web Developer | Lifelong Learner
 
+
 A technology enthusiast and aspiring developer, I am on a journey to create meaningful and impactful software solutions. Join me in my quest to turn ideas into reality.
+
+
 
 
 - 🔭 Currently expanding my knowledge in **Frameworks and Courses**
@@ -15,10 +18,13 @@ A technology enthusiast and aspiring developer, I am on a journey to create mean
 - 📄 Learn about my journey on [LinkedIn](https://www.linkedin.com/in/abhishek-singh-531889240/)
 - ⚡ Fun fact: **I once debugged code in my dream and woke up with a solution!**
 
+
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-blue)](https://linkedin.com/in/abhishek-singh-531889240)
 [![Facebook](https://img.shields.io/badge/Facebook-Abhishek-blue)](https://fb.com/ab.abhishek.1806)
 [![Instagram](https://img.shields.io/badge/Instagram-shekabhi_03-orange)](https://instagram.com/shekabhi_03)
+
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg)
@@ -30,7 +36,7 @@ A technology enthusiast and aspiring developer, I am on a journey to create mean
 ![C](https://img.shields.io/badge/C-%2300599C.svg)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg)
 
-## <br><br>
+
 
 ## 📊 GitHub Statistics:
 
